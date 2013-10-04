@@ -1,0 +1,16 @@
+development:
+  adapter: postgresql
+  host: localhost
+  port: 5432
+  database: sinatra_postgres_dev
+  username: postgres
+  password: ankit1234
+
+
+production:
+  adapter: postgresql            
+  host: 10.0.2.12                          # VM IP
+  port: 57359                          # VM Port 
+  database: t             # Database Name
+  username: a01k5nwp86vfhp7v                 # User Name
+  password: 'fm29jaw9zun55n41t4a0nu6k674un5e1'                # password
