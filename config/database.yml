@@ -9,8 +9,8 @@ development:
 
 production:
   adapter: postgresql            
-  host: 10.0.2.12                          # VM IP
-  port: 57359                          # VM Port 
+  host: 192.168.2.202                          # VM IP
+  port: 26737                          # VM Port 
   database: t             # Database Name
-  username: a01k5nwp86vfhp7v                 # User Name
-  password: 'fm29jaw9zun55n41t4a0nu6k674un5e1'                # password
+  username: a3kuyomtyhn1c2ul                 # User Name
+  password: 'atz0dxtrma0vcw18oh6ucwohs2j9d01p'                # password
